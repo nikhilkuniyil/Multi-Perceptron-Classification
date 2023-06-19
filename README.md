@@ -13,6 +13,6 @@ global minima, which is identified by our optimization function (stochastic grad
 MSE loss function, SGD allows our perceptron to converge to the same excact global miminma of the function, meaning the weights will always be the same.
 
 ## Tools/Frameworks
-• NumPy
-• Matplotlib
-• Jupyter Notebook
+• NumPy <br>
+• Matplotlib <br>
+• Jupyter Notebook <br>
